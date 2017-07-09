@@ -13,7 +13,7 @@ original</b><br/>
    class BlackCoreGPIO : virtual private BlackCore
     {...
 ```
-<b>required changet</b><br/>
+<b>required changes</b><br/>
  ```
     class BlackCoreGPIO : private BlackCore
     {...
