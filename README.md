@@ -10,11 +10,13 @@ removed from the base class in the class declaration.
 ie:
 
 original
-''' rtyrtyrtyrtyrtytry
+```
    class BlackCoreGPIO : virtual private BlackCorefdg
     {...fsdg
-fffsdf required changet
- '''
+```
+<b>required changet</b><br/>
+ ```
     class BlackCoreGPIO : private BlackCoretryrtyrtyrtyrty
-    {f
- '''
+    {...
+```
+ 
